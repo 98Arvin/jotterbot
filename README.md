@@ -1,1 +1,3 @@
 # jotterbot
+
+Sample Git repo
